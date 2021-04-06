@@ -38,7 +38,3 @@ subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
 subsets: "vietnamese"
-source {
-  repository_url: "https://github.com/kosmynkab/Bona-Nova"
-  commit: "f7d909d11c882f4d83a2c53e1d2df1733308812f"
-}
